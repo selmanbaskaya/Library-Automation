@@ -1,0 +1,7 @@
+Ask            Elif           Safak          Baskaya        2011           85             
+c++            selman         baskaya        hakanlar       2017           100            
+Php            furkan         hakan          dogruev        2016           80                       
+java           ertan          ciller         guzelyay       2013           122            
+csharp         selman         baskaya        iyiyayin       2015           135            
+kitap1         selman         baskaya        istyayin       2018           55             
+e              e              e              e              -858993460     -858993460     
